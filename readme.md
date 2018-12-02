@@ -7,4 +7,4 @@
 |     Day           |Name                                                
 |----------------|----------------------------------|
 |	01	|[Chronal Calibration](https://adventofcode.com/2018/day/1)                     
-|          |            
+| 02         |[Inventory Management System](https://adventofcode.com/2018/day/2)
