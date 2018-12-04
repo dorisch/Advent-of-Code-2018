@@ -28,7 +28,7 @@ for k, val in guards.items():
                 maxID = k
 
 minutes = []
-count = 0
+
 for i,j in enumerate(guards[maxID]):
     if i%2 == 1:
         for v in range(guards[maxID][i-1], j):
