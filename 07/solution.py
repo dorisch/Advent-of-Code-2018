@@ -52,19 +52,4 @@ while i < 1 +len(my_items.keys()):
 #solution to the first part of task:
 print("".join(queue))
         
-        
-
-
-
-
-
-
-
-
-
- # Creating a Dependencies object
-#dependencies = Dependencies(my_items)
-
-# The order method returns an OrderedDict
-#print (Dependencies(my_items).order())   
-  
+ 
